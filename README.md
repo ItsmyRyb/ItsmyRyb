@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @ItsmyRyb
-- 👀 I’m interested in crypto
-- 🌱 I’m currently learning airdrop
-- 💞️ I’m looking to collaborate on web3
-- 📫 How to reach me ...
+### Hi there, I'm Derin Permana (ItsmyRyb) 👋
 
-<!---
-ItsmyRyb/ItsmyRyb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### and here is my stats
+<p align="center"><img src="https://www.codewars.com/users/ItsmyRyb/badges/large"/><br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsmyRyb&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsmyRyb&layout=compact&theme=monokai&langs_count=12"/><br />
+</p>
+
+<!--
+**DerinPermana/ItsmyRyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Airdrop Hunter & Research
+- 🌱 I’m currently learning Airdrop,Design,Video Editing
+- 👯 I’m looking to collaborate on Project
+- 🤔 I’m looking for help with Airdrop
+- 💬 Ask me about my life
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
