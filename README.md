@@ -1,5 +1,3 @@
-### Hi there,I'm Derin Permana (ItsmyRyb) 👋
-### and here is my stats
 <p align="center"><img src="https://www.codewars.com/users/ItsmyRyb/badges/large"/><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=ItsmyRyb&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsmyRyb&theme=monokai"/>
