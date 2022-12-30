@@ -14,9 +14,9 @@
 
 - 🔭 I’m currently working on Airdrop Hunter [Justice Airdrop](https://t.me/JusticeMovement)
 
-- 🌱 I’m currently learning Research **Research,Editing,Design**
+- 🌱 I’m currently learning **Research,Editing,Design,Moderator**
 
-- 👯 I’m looking to collaborate on airdrop project [ItsmyRyb](https://linktr.ee/ItsmyRyb)
+- 👯 I’m looking to collaborate on Airdrop Project [ItsmyRyb](https://linktr.ee/ItsmyRyb)
 
 - 🤝 I’m looking for help with Airdrop Research **Research**
 
