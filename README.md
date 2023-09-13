@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **derin.purpose1995@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/10nvFI0ycheXgCnBLiOyy9iezP4zaQZoB/edit?usp=drivesdk&ouid=100838076596247204316&rtpof=true&sd=true](https://docs.google.com/document/d/10nvFI0ycheXgCnBLiOyy9iezP4zaQZoB/edit?usp=drivesdk&ouid=100838076596247204316&rtpof=true&sd=true)
+- 📄 Know about my experiences https://rb.gy/0uya6
 
 - ⚡ Fun fact **Crazy Moderator On Discord**
 
