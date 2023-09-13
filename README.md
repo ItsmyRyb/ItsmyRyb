@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsmyryb" target="blank"><img src="https://img.shields.io/twitter/follow/itsmyryb?logo=twitter&style=for-the-badge" alt="itsmyryb" /></a> </p>
 
-- 🔭 I’m currently working on Airdrop Hunter [Justice Airdrop](https://t.me/JusticeMovement)
+- 🔭 I’m currently working on Airdrop Hunter [Kuli Airdrop](https://t.me/KuliAirdropIndonesia)
 
 - 🌱 I’m currently learning **Research,Editing,Design,Moderator**
 
@@ -24,7 +24,7 @@
 
 - 📝 I regularly write articles on [https://linktr.ee/ItsmyRyb](https://linktr.ee/ItsmyRyb)
 
-- 📫 How to reach me **derin.clein1995@gmail.com**
+- 📫 How to reach me **derin.purpose1995@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/10nvFI0ycheXgCnBLiOyy9iezP4zaQZoB/edit?usp=drivesdk&ouid=100838076596247204316&rtpof=true&sd=true](https://docs.google.com/document/d/10nvFI0ycheXgCnBLiOyy9iezP4zaQZoB/edit?usp=drivesdk&ouid=100838076596247204316&rtpof=true&sd=true)
 
