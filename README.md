@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsmyryb" target="blank"><img src="https://img.shields.io/twitter/follow/itsmyryb?logo=twitter&style=for-the-badge" alt="itsmyryb" /></a> </p>
 
-- 🔭 I’m currently working on Airdrop Hunter [Jurig Airdrop Airdrop](https://t.me/JurigAirdrops)
+- 🔭 I’m currently working on Airdrop Hunter [Jurig Airdrop](https://t.me/JurigAirdrops)
 
 - 🌱 I’m currently learning **Research,Editing,Design,Moderator**
 
