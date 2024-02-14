@@ -24,7 +24,7 @@
 
 - 📝 I regularly write articles on [https://linktr.ee/ItsmyRyb](https://linktr.ee/ItsmyRyb)
 
-- 📫 How to reach me **derin.purpose1995@gmail.com**
+- 📫 How to reach me **itsmyryb@gmail.com**
 
 - 📄 Know about my experiences https://rb.gy/0uya6
 
